@@ -23,7 +23,7 @@
 </script>
 ```
 
-#### In a Node.js Project
+#### Using in Node and modular projects
 
 Installation
 
@@ -31,7 +31,7 @@ Installation
 npm i @xlou/origin
 ```
 
-In main.js or main.ts
+Import
 
 ``` javascript
 /* Using the entire package */
